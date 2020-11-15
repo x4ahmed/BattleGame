@@ -14,7 +14,7 @@ public class MainClass {
 
         if (Game.equalsIgnoreCase("y")) {
 
-            BattleArena G1 = new BattleArena();
+            BattleArena G1 = new BattleArena();   //new battle
             G1.NewBattle();
 
         } else return;
